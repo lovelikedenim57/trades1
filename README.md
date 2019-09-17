@@ -1,1 +1,2 @@
 # trades1
+{"address":"0x6a4d4d11d79885f04bfd8ea21dee59fd9eb02b66","crypto":{"kdf":"pbkdf2","kdfparams":{"c":262144,"dklen":32,"prf":"hmac-sha256","salt":"9ec18fa14a76518a3e01a14f43c36241d0d5a02837a859042fa658e0b9cb1739"},"cipher":"aes-128-ctr","ciphertext":"dfa2acf0c240e9d37b602551a852777a9fb77ea2c66b344010edfbb68e31a754","cipherparams":{"iv":"9c3db9379d2f0a1eaf281d87b180aad5"},"mac":"c4dac5f239abb65d4b1fde06af1db1f3b4527ef94fd2dc97ba9342438e3946a1"},"id":"dee53d93-bf70-4753-b003-e9e352027169","version":3}
